@@ -1,6 +1,6 @@
 # encoding=utf8
 
-from app import app
+from app.models import app
 from flask_script import Manager
 from flask_migrate import Migrate, MigrateCommand
 from app.models import db
