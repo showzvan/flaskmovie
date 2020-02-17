@@ -4,6 +4,8 @@
     <list default="true" id="639367e7-9ac0-49c7-b1f7-7fe683da66c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/home/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/home/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/home/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/home/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +113,7 @@
       <workItem from="1581758585263" duration="4598000" />
       <workItem from="1581785814858" duration="19000" />
       <workItem from="1581832883355" duration="12095000" />
-      <workItem from="1581946265327" duration="1854000" />
+      <workItem from="1581946265327" duration="4912000" />
     </task>
     <servers />
   </component>
@@ -123,22 +125,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="554" y="140" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581867287227" />
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1581772145333">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1822" height="289" key="GridCell.Tab.0.bottom" timestamp="1581955363875">
+      <screen x="0" y="23" width="1871" height="1057" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581772145333" />
-    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1581772145332">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1822" height="289" key="GridCell.Tab.0.bottom/0.23.1871.1057@0.23.1871.1057" timestamp="1581955363875" />
+    <state width="1822" height="289" key="GridCell.Tab.0.center" timestamp="1581955363874">
+      <screen x="0" y="23" width="1871" height="1057" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581772145332" />
-    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1581772145331">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1822" height="289" key="GridCell.Tab.0.center/0.23.1871.1057@0.23.1871.1057" timestamp="1581955363874" />
+    <state width="1822" height="289" key="GridCell.Tab.0.left" timestamp="1581955363873">
+      <screen x="0" y="23" width="1871" height="1057" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581772145331" />
-    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1581772145333">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1822" height="289" key="GridCell.Tab.0.left/0.23.1871.1057@0.23.1871.1057" timestamp="1581955363873" />
+    <state width="1822" height="289" key="GridCell.Tab.0.right" timestamp="1581955363874">
+      <screen x="0" y="23" width="1871" height="1057" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581772145333" />
+    <state width="1822" height="289" key="GridCell.Tab.0.right/0.23.1871.1057@0.23.1871.1057" timestamp="1581955363874" />
     <state x="469" y="179" key="SettingsEditor" timestamp="1581867636682">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -149,6 +155,6 @@
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581842697908" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/movie_flask$manage.coverage" NAME="manage Coverage Results" MODIFIED="1581950336136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/movie_flask$manage.coverage" NAME="manage Coverage Results" MODIFIED="1581954840275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
